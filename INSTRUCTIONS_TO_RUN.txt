@@ -1,0 +1,13 @@
+# RUN INSTRUCTIONS #
+--------------------
+
+To run this project we need to deploy a web server in order to provide the local models and other resources.
+
+1. Install Apache/XAMPP server. (You can install another web server that handle AJAX petitions)
+2. Copy the "project" folder into web server root folder. In XAMPP case, "htdocs" folder.
+3. Run web server and go to your browser.
+4. Put "localhost/project" in your browser URL and enjoy.
+
+NOTE: All the libraries, models and resources required are inside the project folder.
+
+=======================================================================================
