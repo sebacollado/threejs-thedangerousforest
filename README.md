@@ -7,6 +7,6 @@ Based on Three.js 3D library.
 
 - - -
 
-Authors: Sebastián Collado Montañez, Jaime Collado Montañez
+Authors: Sebastián Collado, Jaime Collado
 
 Computer Graphics and Visualization - University of Jaén - 2016
